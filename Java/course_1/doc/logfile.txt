@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Downloads\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+C:\Downloads\BlueJ\lib\bluejcore.jar;C:\Downloads\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Downloads\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Downloads\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Downloads\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Downloads\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Downloads\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Downloads\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Downloads\BlueJ\lib\hamcrest-core-1.3.jar;C:\Downloads\BlueJ\lib\hamcrest-library-1.3.jar;C:\Downloads\BlueJ\lib\lang-stride.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Downloads\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Java\course_1
+-d
+C:\Java\course_1\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Java\course_1\C1.java
+<---- end of javadoc command ---->
+Loading source file C:\Java\course_1\C1.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating C:\Java\course_1\doc\C1.html...
+Generating C:\Java\course_1\doc\package-summary.html...
+Generating C:\Java\course_1\doc\index.html...
